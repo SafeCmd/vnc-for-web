@@ -1,0 +1,1 @@
+node node_modules\novnc\websockify-js-master\websockify\websockify.js --web node_modules\novnc 9000 127.0.0.1:5900
